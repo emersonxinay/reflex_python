@@ -33,3 +33,5 @@ Frontend:
 ```code 
 http://localhost:3000
 ```
+Para mejorar el diseño se esta usando:
+<a href="https://v2.chakra-ui.com/">chakra-ui  </a>
